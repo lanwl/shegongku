@@ -45,6 +45,12 @@
 
 提醒，所有的 Telegram 都是需要挂代理才能访问的。没代理的可以试用推荐地址之后进行访问，推荐：[[极光加速](https://jgjs02.com/#/register?code=mIARKTYR)]。
 
+### 社工库 No：AISGK社工库 精准
+
+直达：[@aishegongkubot](https://t.me/aishegongkubot?start=AISGK_0RGON4QT)。
+
+可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单、通讯记录、网购记录、游戏数据、社保信息、招聘数据、QQ/邮箱/微博/网络账号/贴吧/微博/LOL/手机查绑、Q群关系、QQ/机主姓名、同名联系方式、就职单位、银行开户、通讯录、匹配查完整手机号, 身份证号等联系方式相关信息.请别用于违法用途，保护个人隐私。
+
 ### 社工库 No1：暗精灵社工库
 
 直达：[@AJLSGK_bot](https://t.me/AJL01_bot?start=1RpDZAqo1a)。
