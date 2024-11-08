@@ -59,7 +59,7 @@
 
 ### 社工库 No2：综合社工库
 
-直达：[[@[SL_SGK_bot](https://t.me/SL_SGK_bot?start=DzXcG43bDK))](https://t.me/oldZHSGKbot?start=6566435761)。
+直达：[[@[SL_SGK_bot](https://t.me/oldZHSGKbot?start=6566435761))]。
 
 可以查询个人户籍 / 腾讯 / Q 群 / 京东、淘宝 / 快递信息。请别用于违法用途，保护个人隐私。https://t.me/SL_SGK_bot?start=DzXcG43bDK
 
