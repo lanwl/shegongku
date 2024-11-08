@@ -63,17 +63,12 @@
 
 可以查询个人户籍 / 腾讯 / Q 群 / 京东、淘宝 / 快递信息。请别用于违法用途，保护个人隐私。https://t.me/SL_SGK_bot?start=DzXcG43bDK
 
-### 社工库 No3：Hello World 社工库 （无法使用）暂时更新中
+### 社工库 No3： Hope机器人
+免费
+Hope机器人，模糊搜索，全国法人，精准查询......
+微信绑定，QQ绑定，快递数据，二要素数据，千万B站绑定，三要素数据，银行卡数据，地址数据
 
-免费查询：身份户籍、手机机主、开房记录、快递地址、车牌车主、账号密码、QQ / 贴吧 / 微博 / LOL/Facebook / 手机查绑、Q 群关系、QQ / 机主姓名、同名联系方式、同邮服、同密码、姓名 (拼音) 模糊查身份证（猎魔）等。
-
-直接发送查询条件即可进行查询。
-
-查询示例： 
-
-<img src="img/2023-10-06_221254.png">
-
-直达：<a href="https://t.me/sgk2023_03_30bot?start=SGK_J1Q2U1BA" target="_blank">@sgk2023_03_30bot</a> 。
+直达：<a href="https://t.me/oldZHSGKbot?start=6566435761 " target="_blank">@hpebot</a> 。
 
 
 ### 社工库 No4： 知乎社工库机器人
@@ -109,15 +104,7 @@
 直达：<a href="https://t.me/sgkvipbot?start=vip_1172707 " target="_blank">@sgkvipbot</a> 。
 
 
-### 社工库 No7： Hope机器人
-免费
-Hope机器人，模糊搜索，全国法人，精准查询......
-微信绑定，QQ绑定，快递数据，二要素数据，千万B站绑定，三要素数据，银行卡数据，地址数据
-
-直达：[<a href="https://t.me/MI6SGK_bot?start=oUPrzBOnvw" target="_blank">@MI6SGK_bot</a> 。](https://t.me/HereisHopeBot?start=Xd1fa946a839af4ebe9ea38b3fc7ef6ec)
-
-
-### 社工库 No8： 星盾 - 社工机器人
+### 社工库 No7： 星盾 - 社工机器人
 
 又一个社工库，支持手机号 / 身份证 / 微博 / QQ 号查询，查询免费，但显示需要钻石或金币。
 
