@@ -68,7 +68,7 @@
 Hope机器人，模糊搜索，全国法人，精准查询......
 微信绑定，QQ绑定，快递数据，二要素数据，千万B站绑定，三要素数据，银行卡数据，地址数据
 
-直达：<a href="https://t.me/oldZHSGKbot?start=6566435761 " target="_blank">@hpebot</a> 。
+直达：<a href="https://t.me/HereisHopeBot?start=Xd1fa946a839af4ebe9ea38b3fc7ef6ec " target="_blank">@hpebot</a> 。
 
 
 ### 社工库 No4： 知乎社工库机器人
