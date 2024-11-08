@@ -45,7 +45,7 @@
 
 提醒，所有的 Telegram 都是需要挂代理才能访问的。没代理的可以试用推荐地址之后进行访问，推荐：[[极光加速](https://jgjs02.com/#/register?code=mIARKTYR)]。
 
-### 社工库 No：AISGK社工库 精准
+### 社工库 No：AISGK社工库 精准 --暂时无法使用 数据更新中
 
 直达：[@aishegongkubot](https://t.me/aishegongkubot?start=AISGK_0RGON4QT)。
 
@@ -57,13 +57,13 @@
 
 可以查询个人户籍 / 腾讯 / Q 群 / 京东、淘宝 / 快递信息。请别用于违法用途，保护个人隐私。
 
-### 社工库 No2：神龙社工库
+### 社工库 No2：综合社工库
 
-直达：[@[SL_SGK_bot](https://t.me/SL_SGK_bot?start=DzXcG43bDK))。
+直达：[[@[SL_SGK_bot](https://t.me/SL_SGK_bot?start=DzXcG43bDK))](https://t.me/oldZHSGKbot?start=6566435761)。
 
 可以查询个人户籍 / 腾讯 / Q 群 / 京东、淘宝 / 快递信息。请别用于违法用途，保护个人隐私。https://t.me/SL_SGK_bot?start=DzXcG43bDK
 
-### 社工库 No3：Hello World 社工库
+### 社工库 No3：Hello World 社工库 （无法使用）暂时更新中
 
 免费查询：身份户籍、手机机主、开房记录、快递地址、车牌车主、账号密码、QQ / 贴吧 / 微博 / LOL/Facebook / 手机查绑、Q 群关系、QQ / 机主姓名、同名联系方式、同邮服、同密码、姓名 (拼音) 模糊查身份证（猎魔）等。
 
@@ -109,11 +109,12 @@
 直达：<a href="https://t.me/sgkvipbot?start=vip_1172707 " target="_blank">@sgkvipbot</a> 。
 
 
-### 社工库 No7： MI6 免费社工机器人
+### 社工库 No7： Hope机器人
+免费
+Hope机器人，模糊搜索，全国法人，精准查询......
+微信绑定，QQ绑定，快递数据，二要素数据，千万B站绑定，三要素数据，银行卡数据，地址数据
 
-直接发送查询条件进行查询即可。
-
-直达：<a href="https://t.me/MI6SGK_bot?start=oUPrzBOnvw" target="_blank">@MI6SGK_bot</a> 。
+直达：[<a href="https://t.me/MI6SGK_bot?start=oUPrzBOnvw" target="_blank">@MI6SGK_bot</a> 。](https://t.me/HereisHopeBot?start=Xd1fa946a839af4ebe9ea38b3fc7ef6ec)
 
 
 ### 社工库 No8： 星盾 - 社工机器人
